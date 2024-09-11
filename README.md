@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirbingos (anagram of my name Birgisson) and I am a psychologist from Iceland.
 - 👀 I’m interested in how data science can aid psychological research.
-- 🌱 I’m currently a PhD student studying the relationship between screen time and mental health.
-- 📫 You can reach me on twitter @ottarb
+- 🌱 I’m currently a PhD student studying the relationship between online communication and mental health.
+- 📫 You can reach me by sending me an email: ottar@ottar.is
 
 - 
 <!---
